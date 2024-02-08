@@ -1,4 +1,4 @@
-module todos
+module github.com/naopin/todos
 
 go 1.19
 

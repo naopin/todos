@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 	"os"
-	"todos/graph"
+	"github.com/naopin/todos/graph"
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
